@@ -1,0 +1,2 @@
+module UserBackoffice::WellcomeHelper
+end

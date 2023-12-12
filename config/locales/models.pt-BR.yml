@@ -1,0 +1,9 @@
+en:
+  activerecord:
+    models:
+      profile:
+        one: Perfil
+        other: Perfis
+      admin:
+        one: Administrador
+        other: Administradores
